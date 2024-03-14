@@ -1,2 +1,2 @@
-# TPA-Amilton-Hessel-e-Ryan
+# TPA-Amilton-Hessel
 Técnicas de Programação e Algoritmos 
